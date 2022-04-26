@@ -2,8 +2,8 @@
 Descripción breve del proyecto para programación para internet
 
 Equipo 3:
-- Pelayo Pinedo Abraham
 - Núñez Milán María Fernanda
+- Pelayo Pinedo Abraham
 - Priego Zaleta Samir Adriel
 
 Mi equipo y yo tenemos pensado lo siguiente:
